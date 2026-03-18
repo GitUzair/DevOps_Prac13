@@ -1,0 +1,47 @@
+Date:05/03/2026- Calss-4
+.................................
+task:
+1. What is the difference between more and less command
+
+2.In the vi editor, how to delete the character in forward direction?
+
+3.In the vi editor, how to delete the character in backward direction
+
+4.In the VI editor, how do you search and replace an exact word pattern?
+Example text: good morning goodmorning good
+Write a command so that only the exact word good is replaced, and goodmorning should not be affected.
+....................................
+
+How to search and replace the pattern from 5th line to last line all the occurance
+
+esc: 5,$s/<search-pattern>/<replace-pattern>/g
+
+
+
+cat -s <file-name>
+
+Above command will display the content of the file on a terminal by supressing multiple
+empty lines to a single empty line
+
+cat -s -n <file-name>
+
+Above will display gthe content of a file on the terminal,where it will supress the multiple
+empty lines and also it will assign the line numbers
+
+cat <file1.txt> <file2.txt>
+
+Above command will display the content together for  all the files mentioned in the command
+
+.............................
+
+More command:
+
+More command is used to display all the contents of a file on the terminal page wise
+
+Synatx: more <file-name>
+
+Note: Press down arrow key to display the next page content on the terminal and we can use q for quit
+
+.........................
+less command
+

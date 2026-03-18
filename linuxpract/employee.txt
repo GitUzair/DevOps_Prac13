@@ -1,0 +1,7 @@
+Name    Dept   Designation   Salary
+ajay   Sales   Manager       45000
+sunil  HR      Executive      25000
+varun  Sales    Manager       50000
+amit    HR     Executive      47000
+tarun  Sales   Executive      15000
+deepak Sales   Executive      23000
